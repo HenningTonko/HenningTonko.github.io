@@ -3,8 +3,6 @@ layout: post
 title: 3D projection in Haskell
 ---
 
-# 3D Projection with Haskell
-
 I recently watched a video from The Coding Train on [3D Rendering with Rotation and Projection](https://www.youtube.com/watch?v=p4Iz0XJY-Qk). It was written in javascript using the p5 library, and showed how to draw 3D graphics using a 2D graphics library. It got me wondering if I could recreate it in Haskell.
 
 We will only need two external libraries for this project:

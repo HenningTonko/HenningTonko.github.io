@@ -197,7 +197,7 @@ Now just compile and run it:
 ghc -o Cube Main.hs
 ./Cube
 ```
-![](https://github.com/HenningTonko/HenningTonko.github.io/blob/master/images/3Dcube.gif)
+![](https://henningtonko.github.io/images/3Dcube.gif)
 * [Code on Github](https://github.com/HenningTonko/3DProjection)
 
 Full Code:
